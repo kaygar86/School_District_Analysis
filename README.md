@@ -2,7 +2,7 @@
  
 The analysis should contain the following:
 # Overview of the school district analysis
-In Module 4 we used Pandas to create an analysis of school data of student math and reading scores and the budget for each school. The purpose of this analysis was to take the existing code we wrote in the module and to replace Thomas High School's 9th grade student data with NaN. By removing 461 student's scores from the data set we expected to see a difference in the average scores for the rest of the students (grades 10th through 12th). Unfortunately we did not get the expected result, therefore we conclude that something went wrong in our refactored code. 
+In Module 4 we used Pandas to create an analysis of school data of student math and reading scores and the budget for each school. The purpose of this analysis was to take the existing code we wrote in the module and to replace Thomas High School's 9th grade student data with NaN. By removing 461 student's scores from the data set we expected to see a difference in the average scores for the rest of the students (grades 10th through 12th). Unfortunately we did not get the expected result, therefore we conclude that something went wrong in our refactored code. We ran out of time so we only were able to get to the point of reporting the Top 5 and Bottom 5 schools. 
 
 # Results
 
