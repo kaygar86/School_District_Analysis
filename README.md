@@ -24,20 +24,25 @@ By replacing 9th graders' scores it should have moved Thomas High School into th
 We got the following results for top 5 and bottom 5 schools. 
 ## Top 5 Schools 
 <img width="977" alt="Top 5" src="https://user-images.githubusercontent.com/66224990/167342213-6cd19091-463a-4158-b9bb-5b63093f7ba2.png">
+
 ## Bottom 5 Schools
 <img width="977" alt="Bottom 5" src="https://user-images.githubusercontent.com/66224990/167342244-481e6486-15d7-4568-b888-8390e1859aab.png">
 
-* Math and reading scores by grade
+## Math and reading scores by grade
 - Replacing the 9th grade scores would not affect the other grade's scores at Thomas High School. 
 
-* Scores by school spending
+## Scores by school spending
 - Scores do not seem to play a significant role in the school spending, however lower performing schools have a slightly higher per student spending amount. It seems more likely that spending is affected by the school type as the higher spending schools are all District, which may be getting more funding than a private school. 
 
-* Scores by school size
-- Removing the 9th grade data would not affect the scores by school size. Thomas High School and other charter schools still have much smaller size and score higher than the larger District schools. 
+## Scores by school size
+- Removing the 9th grade data would affect the groups of schools with smaller size. Thomas High was one of the smaller schools to begin with so having a higher average passing percentage would make smaller schools appear more successful. 
 
-* Scores by school type
-- The top 5 performing schools are charter schools. Thomas High School is also a charter school so it does not seem removing the 9th grade data would affect them.  
+## Scores by school type
+- The top 5 performing schools are charter schools and Thomas High is also a charter school. With a higher average score it would affect the charter schools' performance as a group. 
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-- Obvious changes were the percent of students passing for math, reading and overall scores. This change in 3 data outputs would have moved Thomas High School into one of the Top 5 performing schools. 
+- The changes by removing 9th grade scores were:
+- Higher percent of students passing math
+- Higher percent passing reading 
+- Higher percent passing overall
+- The changes in above 3 data outputs would have moved Thomas High School into one of the Top 5 performing schools
